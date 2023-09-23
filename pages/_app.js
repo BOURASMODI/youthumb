@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
     <Fragment>
       <DefaultSeo
         title="Youtube Thumbnail Downloader"
-        description "قم بتنزيل صور الصورة المصغرة لمقاطع الفيديو على YouTube  بجميع الجودات مجانًا
+        description= "Download high-quality thumbnails from YouTube videos."
         openGraph={{
           url: "https://your-website-url.com",
           title: "Youtube Thumbnail Downloader",
